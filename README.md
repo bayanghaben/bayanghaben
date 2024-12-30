@@ -15,27 +15,22 @@ Welcome to my creative space! I am a Frontend Web Developer with a passion for t
 ### Experience
 With nearly two years of experience of experience in frontend development,I specialize in building websites using React, creating interactive and user-friendly digital experiences. I’m passionate about improving accessibility in web development and delivering efficient solutions. Let’s connect and discuss how my React skills can contribute to your team.
 
-
 <br><br>
-
-
-
 ## 🛠️ Technologies & Skills
 My toolkit includes, but is not limited to:
 
  #### Languages 
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="50" height="50"/>&nbsp;
 </div>
 
 ### Frameworks/Libraries: 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
 </div>
 
@@ -67,8 +62,6 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
 </div>
-
-<br>
 
 
 
