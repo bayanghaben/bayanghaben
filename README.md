@@ -2,7 +2,8 @@
 <br>
 
 <div>
- <img alt="Profile Banner" src="https://res.cloudinary.com/dujkjy2e2/image/upload/v1708700541/kenneth_brandon_5_pahnpi.png">
+
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/26fcd3b3-5064-4257-98f6-29ff5549e4fd)
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
