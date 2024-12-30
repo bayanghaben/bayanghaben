@@ -13,7 +13,7 @@ Welcome to my creative space! I am a Frontend Web Developer with a passion for t
 ### Experience
 With nearly two years of experience of experience in frontend development,I specialize in building websites using React, creating interactive and user-friendly digital experiences. I’m passionate about improving accessibility in web development and delivering efficient solutions. Let’s connect and discuss how my React skills can contribute to your team.
 
-<br><br>
+<br>
 ## 🛠️ Technologies & Skills
 My toolkit includes, but is not limited to:
 
