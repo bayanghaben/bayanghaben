@@ -1,35 +1,80 @@
-# Hi there, I'm Bayan Ghaben 👋
+![](https://komarev.com/ghpvc/?username=kbrandon19&style=for-the-badge)
+<br>
 
-<!-- <h3>I am a</h3> -->
+<div align="left">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=32&pause=1000&color=228BE6&width=435&lines=My+name+is+Bayan+Ghaben+;I'm+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning everything :)
-- 🥅 2023 Goals: I aim to become a proficient and innovative developer in the field.
-- ⚡ Hobbies: I love to Reading Books
-  <br />
-  <br />
+<div>
+ <img alt="Profile Banner" src="https://res.cloudinary.com/dujkjy2e2/image/upload/v1708700541/kenneth_brandon_5_pahnpi.png">
+</div>
 
-### Languages and Tools :
+# Hey there, it's a pleasure to meet you! 👋
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+### About Me
+Welcome to my creative space! I am a Frontend Web Developer with a passion for transforming designs and ideas into interactive, user-friendly digital experiences. I thrive on using modern technologies to build dynamic websites and continuously seek opportunities to learn and grow in the ever-evolving web development field.
 
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;" />
-<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:15px;" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:15px;" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:15px;" />
 
-<img  />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:15px;" />
+### Experience
+With nearly two years of experience of experience in frontend development,I specialize in building websites using React, creating interactive and user-friendly digital experiences. I’m passionate about improving accessibility in web development and delivering efficient solutions. Let’s connect and discuss how my React skills can contribute to your team.
 
-<br />
-<br />
 
----
+<br><br>
 
-## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayan-ghaben/)
-[![Codepen](https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bayanghaben)
+
+## 🛠️ Technologies & Skills
+My toolkit includes, but is not limited to:
+
+ #### Languages 
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+
+</div>
+
+### Frameworks/Libraries: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
+</div>
+
+### Tools & Platforms: 
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+ <img src="https://res.cloudinary.com/dujkjy2e2/image/upload/c_scale,w_394,x_697,y_516/v1708701249/klaviyo-new-20228862_pf9p74.jpg" title="Klaviyo" alt="Klaviyo" width="50" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+</div>
+
+### Design & UI/UX: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+</div>
+
+
+<br><br><br>
+
+### 🤝 Let's Connect
+I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a Frontend Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me.
+
+<div id="badges" align="center">
+  <br><br>
+  <a href="https://www.linkedin.com/in/kdbrand">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="mailto:BayanGhabin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
+  </a>
+</div>
+
+<br>
+
+
+
