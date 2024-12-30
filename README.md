@@ -1,11 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kbrandon19&style=for-the-badge)
 <br>
 
-<div align="left">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
-</div>
-
-
 <div>
  <img alt="Profile Banner" src="https://res.cloudinary.com/dujkjy2e2/image/upload/v1708700541/kenneth_brandon_5_pahnpi.png">
 </div>
@@ -40,7 +35,6 @@ My toolkit includes, but is not limited to:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
 </div>
 
@@ -49,7 +43,6 @@ My toolkit includes, but is not limited to:
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
- <img src="https://res.cloudinary.com/dujkjy2e2/image/upload/c_scale,w_394,x_697,y_516/v1708701249/klaviyo-new-20228862_pf9p74.jpg" title="Klaviyo" alt="Klaviyo" width="50" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
 </div>
 
@@ -66,7 +59,7 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
 
 <div id="badges" align="center">
   <br><br>
-  <a href="https://www.linkedin.com/in/kdbrand">
+  <a href="https://www.linkedin.com/in/bayan-ghaben/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
   <a href="mailto:BayanGhabin@gmail.com">
